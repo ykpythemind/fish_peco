@@ -1,10 +1,11 @@
-# fish_peco_z
+# fish_peco
 
 ```
-$ fisher ykpythemind/fish_peco_z
+$ fisher ykpythemind/fish_peco
 ```
 
 # key_bindings
 
-Ctrl + ]
+Ctrl + ] ... z
+Ctrl + r ... fuzzy search history
 
